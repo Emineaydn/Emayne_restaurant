@@ -1,0 +1,37 @@
+element.style {
+}
+body, html {
+    height: 100%;
+}
+html {
+    overflow-x: hidden;
+}
+html, body {
+    font-family: Verdana,sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+}
+html {
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+html {
+    box-sizing: border-box;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+kullanıcı aracısı stil sayfası
+:root {
+    view-transition-name: root;
+}
+kullanıcı aracısı stil sayfası
+html {
+    display: block;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
